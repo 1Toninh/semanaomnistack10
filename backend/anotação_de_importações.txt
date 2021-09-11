@@ -1,0 +1,7 @@
+express
+mongoose
+axios
+cors (acessar de qualquer endereço)
+
+
+2º vídeo SEMANA OMNISTACK : 1:19:38
